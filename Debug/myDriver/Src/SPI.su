@@ -1,0 +1,9 @@
+../myDriver/Src/SPI.c:23:8:SPI_TransmitHelper_16Bits	4	static
+../myDriver/Src/SPI.c:34:8:SPI_TransmitHelper_8Bits	4	static
+../myDriver/Src/SPI.c:51:6:SPI_Init	8	static
+../myDriver/Src/SPI.c:72:6:SPI_PeripheralCmd	0	static
+../myDriver/Src/SPI.c:89:6:SPI_TransmitData	0	static
+../myDriver/Src/SPI.c:127:6:SPI_ReceiveData	0	static
+../myDriver/Src/SPI.c:161:6:SPI_TransmitData_IT	4	static
+../myDriver/Src/SPI.c:189:6:SPI_InterruptHandler	0	static
+../myDriver/Src/SPI.c:215:18:getSPIFlagStatus	0	static

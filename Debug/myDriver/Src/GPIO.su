@@ -1,0 +1,5 @@
+../myDriver/Src/GPIO.c:26:6:GPIO_Init	32	static
+../myDriver/Src/GPIO.c:89:6:GPIO_Write_Pin	0	static
+../myDriver/Src/GPIO.c:109:16:GPIO_Read_Pin	0	static
+../myDriver/Src/GPIO.c:131:6:GPIO_Locked_Pin	0	static
+../myDriver/Src/GPIO.c:149:6:GPIO_Toggle_Pin	0	static
